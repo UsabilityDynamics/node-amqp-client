@@ -1,0 +1,26 @@
+{
+  "name": "gce-amqp-cluster-client",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/amqp-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsabilityDynamics/node-gce-amqp-cluster-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UsabilityDynamics/node-gce-amqp-cluster-client/issues"
+  },
+  "homepage": "https://github.com/UsabilityDynamics/node-gce-amqp-cluster-client#readme",
+  "dependencies": {
+    "amqplib": "^0.4.2",
+    "async": "^1.5.2",
+    "debug": "^2.2.0",
+    "docker-gce-discovery": "git+https://github.com/UsabilityDynamics/node-docker-gce-discovery.git#771309801b3d2a50eb797c98aa99c31a4f3845cb",
+    "lodash": "^4.16.4"
+  }
+}
