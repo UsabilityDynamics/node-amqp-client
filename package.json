@@ -20,7 +20,7 @@
     "amqplib": "^0.4.2",
     "async": "^1.5.2",
     "debug": "^2.2.0",
-    "docker-gce-discovery": "git+https://github.com/UsabilityDynamics/node-docker-gce-discovery.git#771309801b3d2a50eb797c98aa99c31a4f3845cb",
+    "docker-gce-discovery": "git+https://github.com/UsabilityDynamics/node-docker-gce-discovery.git#85200f4440041cb85bca84a8b8536e2ff2009c5c",
     "lodash": "^4.16.4"
   }
 }
