@@ -1,6 +1,6 @@
 {
   "name": "gce-amqp-cluster-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "lib/amqp-client.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "amqplib": "^0.4.2",
     "async": "^1.5.2",
     "debug": "^2.2.0",
-    "docker-gce-discovery": "git+https://github.com/UsabilityDynamics/node-docker-gce-discovery.git#85200f4440041cb85bca84a8b8536e2ff2009c5c",
+    "docker-gce-discovery": "^0.1.6",
     "lodash": "^4.16.4"
   }
 }
